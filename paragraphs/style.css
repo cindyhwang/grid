@@ -83,6 +83,7 @@ h2 {
   line-height: 115%;
   text-transform: uppercase;
   letter-spacing: 1px;
+  color: #DCDCDC;
 }
 
 .container {
@@ -109,4 +110,5 @@ h2 {
     line-height: 140%;
     padding-left: 0;
     letter-spacing: .25px;
+    color: #DCDCDC;
 }
