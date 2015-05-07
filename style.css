@@ -1,0 +1,332 @@
+/*.square-1 {
+width: 225px;
+height: 225px;
+border: 1px solid black;
+left: 0;
+right: 0;
+margin: 0 auto;
+}*/
+
+h1 {
+  font-family: 'gridnikregular';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 75px;
+  margin-top: 20px;
+  position: fixed;
+  left: 25px;
+}
+
+h2 {
+  font-family: 'gridnikregular';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 75px;
+  margin-top: 590px;
+  position: fixed;
+  left: 885px;
+}
+
+.square-1 {
+width: 225px;
+height: 225px;
+border: 1px solid black;
+left: 410px;
+position: fixed;
+top: 125px;
+
+}
+
+.square-2 {
+width: 225px;
+height: 225px;
+border: 1px solid black;
+left: 635px;
+position: fixed;
+top: 125px;
+}
+
+.square-3 {
+width: 225px;
+height: 225px;
+border: 1px solid black;
+left: 635px;
+position: fixed;
+top: 350px;
+}
+
+.square-4 {
+width: 225px;
+height: 225px;
+border: 1px solid black;
+left: 410px;
+position: fixed;
+top: 350px;
+}
+
+
+
+
+
+
+
+a span {display: none;}
+
+a:hover span.one {
+  display: block;
+  font-family: 'gridnikregular';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  color: black;
+text-align: center;
+margin-top: 85px;
+ }
+
+a:hover span.two {
+  display: block;
+  font-family: 'gridnikregular';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  color: black;
+text-align: center;
+margin-top: 72.5px;
+ }
+
+h1.one {
+  font-family: 'Anonymous Pro';
+  font-weight: 700;
+  font-size: 100px;
+  line-height: 100%;
+  margin-bottom: -25px;
+  text-align: center;
+  margin-top: 35px;
+
+}
+
+h1.two {
+ font-family: 'Lobster', cursive;
+  font-weight: 400;
+  font-size: 95px;
+  line-height: 103%;
+   margin-bottom: -25px;
+   text-align: center;
+   margin-top: 35px;
+   margin-right: 10px;
+
+}
+
+h1.three {
+  font-family: 'Big Caslon';
+  font-weight: 400;
+  font-size: 95px;
+  line-height: 105%;
+   margin-bottom: -25px;
+   text-align: center;
+   margin-top: 35px;
+
+}
+
+h1.four {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  font-size: 82px;
+line-height: 118%;
+ margin-bottom: -25px;
+ text-align: center;
+ margin-top: 35px;
+}
+
+h1.five {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 800;
+  font-size: 95px;
+line-height: 100%;
+ margin-bottom: -25px;
+ text-align: right;
+ text-align: center;
+ margin-top: 35px;
+}
+
+h1.six {
+ font-family: 'Astloch', cursive;
+  font-weight: 700;
+  font-size: 95px;
+line-height: 100%;
+ margin-bottom: -25px;
+ text-align: right;
+ text-align: center;
+}
+
+h1.seven {
+  
+  font-family: 'Arvo', serif;
+  font-weight: 700;
+  font-size: 94px;
+line-height: 105%;
+margin-bottom: -25px;
+ text-align: right;
+ text-align: center;
+}
+
+h1.eight {
+  font-family: 'Nova Cut', cursive;
+  font-weight: 700;
+  font-size: 95px;
+line-height: 100%;
+margin-bottom: -25px;
+ text-align: right;
+ text-align: center;
+}
+
+h1.nine {
+ 
+  font-family: 'Sansita One', cursive;
+  font-weight: 400;
+  font-size: 105px;
+line-height: 80%;
+ margin-bottom: -25px;
+ text-align: right;
+ text-align: center;
+
+}
+
+h1.ten {
+  font-family: 'Codystar', cursive;
+  font-weight: 700;
+  font-size: 95px;
+line-height: 100%;
+ margin-bottom: -25px;
+ text-align: right;
+ text-align: center;
+}
+
+h1.eleven {
+
+ font-family: 'Limelight', cursive;
+  font-weight: 700;
+  font-size: 92px;
+line-height: 115%;
+ margin-bottom: -25px;
+ text-align: right;
+ text-align: center;
+}
+
+h1.twelve {
+ font-family: 'Baskerville', serif;
+  font-weight: 400;
+  font-size: 95px;
+line-height: 100%;
+margin-bottom: -25px;
+ text-align: right;
+ text-align: center;
+}
+
+h1.thirteen {
+  
+    font-family: 'Keania One', cursive;
+  font-weight: 400;
+  font-size: 95px;
+line-height: 100%;
+ margin-bottom: -25px;
+ text-align: right;
+ text-align: center;
+}
+
+h1.fourteen {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-weight: 700;
+  font-size: 95px;
+line-height: 100%;
+ margin-bottom: -25px;
+ text-align: right;
+ text-align: center;
+}
+
+h1.fifteen {
+font-family: 'Averia Serif Libre', cursive;
+  font-weight: 700;
+  font-size: 102px;
+line-height: 90%;
+ margin-bottom: -25px;
+ text-align: right;
+ text-align: center;
+}
+
+h1.sixteen {
+ 
+  font-family: 'Oldenburg', cursive;
+  font-weight: 700;
+  font-size: 94px;
+line-height: 100%;
+ margin-bottom: -25px;
+ text-align: right;
+ text-align: center;
+}
+
+h1.seventeen {
+
+  font-family: 'Sirin Stencil', cursive;
+  font-weight: 400;
+  font-size: 105px;
+line-height: 55%;
+ margin-bottom: -25px;
+ text-align: right;
+ text-align: center;
+}
+
+h1.eighteen {
+ font-family: 'Bangers', cursive;
+  font-weight: 400;
+  font-size: 100px;
+line-height: 88%;
+margin-bottom: -25px;
+ text-align: right;
+ text-align: center;
+ margin-right: 20px;
+
+}
+
+h1.nineteen {
+  
+     font-family: 'UnifrakturMaguntia', cursive;
+  font-weight: 400;
+  font-size: 95px;
+line-height: 100%;
+margin-bottom: -25px;
+ text-align: right;
+ text-align: center;
+ margin-right: 10px;
+}
+
+h1.twenty {
+    font-family: 'Expletus Sans', cursive;
+  font-weight: 700;
+  font-size: 102px;
+line-height: 100%;
+margin-bottom: -25px;
+ text-align: right;
+ text-align: center;
+}
+
+
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: blue;
+}
+a:active {
+    text-decoration: none;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto; 
+}
