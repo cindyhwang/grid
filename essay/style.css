@@ -1,54 +1,68 @@
+sup, sub {
+   vertical-align: baseline;
+   position: relative;
+   top: -0.4em;
 
-
-h2 {
-  font-family: 'gridnikregular';
-  font-weight: normal;
-  font-style: normal;
-  font-size: 75px;
-  margin-top: 590px;
-  position: fixed;
-  left: 885px;
 }
 
 .square-1 {
-width: 225px;
-height: 225px;
-border: 1px solid yellow;
+width: 224px;
+height: 224px;
+border-right-width: 1px;
+border-left-width: 2px;
+border-top-width: 2px;
+border-bottom-width: 1px;
+border-style: solid;
 left: 405px;
 position: fixed;
-top: 125px;
-  z-index: -1
-
+top: 145px;
+border-color: #DCDCDC;
+z-index: -1
 }
 
 .square-2 {
-width: 225px;
-height: 225px;
-border: 1px solid yellow;
+width: 224px;
+height: 224px;
+border-right-width: 2px;
+border-left-width: 2px;
+border-top-width: 2px;
+border-bottom-width: 1px;
+border-style: solid;
 left: 630px;
 position: fixed;
-top: 125px;
- z-index: -1
+top: 145px;
+border-color: #DCDCDC;
+z-index: -1
 }
 
 .square-3 {
-width: 225px;
-height: 225px;
-border: 1px solid yellow;
-left: 630px;
+width: 223px;
+height: 224px;
+border-right-width: 2px;
+border-left-width: 2px;
+border-top-width: 2px;
+border-bottom-width: 2px;
+border-style: solid;
+left: 405px;
 position: fixed;
-top: 350px;
- z-index: -1
+top: 370px;
+border-color: #DCDCDC;
+z-index: -1
 }
 
 .square-4 {
-width: 225px;
-height: 225px;
-border: 1px solid yellow;
-left: 405px;
+width: 224px;
+height: 224px;
+border-right-width: 2px;
+border-left-width: 2px;
+border-top-width: 2px;
+border-bottom-width: 2px;
+border-style: solid;
+left: 630px;
 position: fixed;
-top: 350px;
- z-index: -1
+top: 370px;
+border-color: #DCDCDC;
+z-index: -1
 }
 
 a span {display: none;}
@@ -99,10 +113,9 @@ a:active {
   font-family: 'ag_book_pro_regularregular';
     font-weight: normal;
     font-style: normal;
-    margin-top: 123px;
+    margin-top: 142px;
     line-height: 150%;
    font-size: 16px;
-   letter-spacing: .15px;
    margin-bottom: 50px;
    
 
@@ -112,10 +125,24 @@ h1 {
   font-family: 'gridnikregular';
   font-weight: normal;
   font-style: normal;
-  font-size: 75px;
+  font-size: 50px;
+  margin-top: -97px;
   position: fixed;
   left: 25px;
-  top: -20px;
+  line-height: 115%
+}
+
+h2 {
+  font-family: 'gridnikregular';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 22px;
+  margin-top: 225px;
+  position: fixed;
+  left: 30px;
+  line-height: 115%;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 img {
@@ -128,6 +155,22 @@ img {
     font-style: normal;
     font-size: 12px;
     margin-top: 0px;
-    line-height: 115%
+    line-height: 125%
 }
+
+ol {
+     font-family: 'ag_book_pro_regularregular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 12px;
+    margin-top: 0px;
+    line-height: 140%;
+    padding-left: 0;
+    letter-spacing: .25px;
+}
+
+.notes {
+  margin-top: 35px;
+}
+
 
